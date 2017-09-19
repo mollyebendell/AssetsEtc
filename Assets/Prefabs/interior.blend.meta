@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: e9f0a7d963eff4c9d9f1a56ede0e95f4
+timeCreated: 1505083574
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Baseboard
+    100002: Ceiling
+    100004: CTRL_Hole
+    100006: Cube
+    100008: Cube_001
+    100010: Cube_002
+    100012: Cube_003
+    100014: Cylinder
+    100016: Cylinder_001
+    100018: Floor
+    100020: Handle
+    100022: Handle_001
+    100024: //RootNode
+    100026: Plane
+    100028: Plane_001
+    100030: Plane_002
+    100032: Plane_003
+    100034: Room
+    100036: Window_L
+    100038: Window_R
+    100040: Windows_Sill
+    400000: Baseboard
+    400002: Ceiling
+    400004: CTRL_Hole
+    400006: Cube
+    400008: Cube_001
+    400010: Cube_002
+    400012: Cube_003
+    400014: Cylinder
+    400016: Cylinder_001
+    400018: Floor
+    400020: Handle
+    400022: Handle_001
+    400024: //RootNode
+    400026: Plane
+    400028: Plane_001
+    400030: Plane_002
+    400032: Plane_003
+    400034: Room
+    400036: Window_L
+    400038: Window_R
+    400040: Windows_Sill
+    2300000: Baseboard
+    2300002: Ceiling
+    2300004: CTRL_Hole
+    2300006: Cube
+    2300008: Cube_001
+    2300010: Cube_002
+    2300012: Cube_003
+    2300014: Cylinder
+    2300016: Cylinder_001
+    2300018: Floor
+    2300020: Handle
+    2300022: Handle_001
+    2300024: Plane
+    2300026: Plane_001
+    2300028: Plane_002
+    2300030: Plane_003
+    2300032: Room
+    2300034: Window_L
+    2300036: Window_R
+    2300038: Windows_Sill
+    3300000: Baseboard
+    3300002: Ceiling
+    3300004: CTRL_Hole
+    3300006: Cube
+    3300008: Cube_001
+    3300010: Cube_002
+    3300012: Cube_003
+    3300014: Cylinder
+    3300016: Cylinder_001
+    3300018: Floor
+    3300020: Handle
+    3300022: Handle_001
+    3300024: Plane
+    3300026: Plane_001
+    3300028: Plane_002
+    3300030: Plane_003
+    3300032: Room
+    3300034: Window_L
+    3300036: Window_R
+    3300038: Windows_Sill
+    4300000: Cube_003
+    4300002: Plane_003
+    4300004: Cube_002
+    4300006: Cylinder_001
+    4300008: Cylinder
+    4300010: Cube_001
+    4300012: Cube
+    4300014: Plane_002
+    4300016: Plane
+    4300018: Plane_001
+    4300020: Windows_Sill
+    4300022: Window_R
+    4300024: Handle_001
+    4300026: Window_L
+    4300028: Handle
+    4300030: CTRL_Hole
+    4300032: Room
+    4300034: Ceiling
+    4300036: Floor
+    4300038: Baseboard
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
